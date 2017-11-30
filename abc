@@ -11,3 +11,7 @@
     
     console.log()
 </script>
+
+
+public function getPdf(Request $request)
+  {}
